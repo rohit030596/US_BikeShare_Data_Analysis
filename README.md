@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+04/5/2020
 
 ### Project Title
-Replace the Project Title
+Bike Share Project
 
 ### Description
-Describe what your project is about and what it does
+User input which includes name of city, month and day is taken to display the data of bike usage on those particular filtered dates.
 
 ### Files used
-Include the files used
+BikeShare.py,washington.csv, new_york_city.csv,chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Stackoverflow.com
 
