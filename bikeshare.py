@@ -158,7 +158,7 @@ def main():
             df2 = df2.append(df.head(5))
             print(df2)
             df = df[5:]
-            user_input = input('\n Do you wish to see  more lines of raw data? Enter yes or no.\n')
+            user_input = input('\n Do you wish to see  more lines of raw data? Please enter yes or no.\n')
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
