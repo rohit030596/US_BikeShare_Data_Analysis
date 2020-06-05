@@ -5,7 +5,7 @@
 Bike Share Project
 
 ### Description
-User input which includes name of city, month and day is taken to display the data of bike usage on those particular filtered dates.
+User input which includes name of city, month and day is taken to display the data of bike usage on those particular filtered dates.This is a fun project!
 
 ### Files used
 BikeShare.py,washington.csv, new_york_city.csv,chicago.csv
